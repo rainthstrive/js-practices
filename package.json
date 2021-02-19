@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "testfunc": "node src/test.js"
+    "testfunc": "node src/test.js",
+    "hoisting": "node src/hoisting.js",
+    "variables": "node src/variables.js"
   }
 }
