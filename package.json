@@ -6,6 +6,8 @@
   "scripts": {
     "testfunc": "node src/test.js",
     "hoisting": "node src/hoisting.js",
-    "variables": "node src/variables.js"
+    "variables": "node src/variables.js",
+    "objetos": "node src/objetos.js",
+    "scope": "node src/scope.js"
   }
 }
